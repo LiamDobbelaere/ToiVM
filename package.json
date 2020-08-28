@@ -1,0 +1,11 @@
+{
+  "name": "toivm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "toivm": "nim c -r toivm.nim"
+  },
+  "author": "",
+  "license": "ISC"
+}
