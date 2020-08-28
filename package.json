@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "toivm": "nim c -r toivm.nim"
+    "toivm": "nim c -r toivm.nim",
+    "c": "nim c toivm.nim"
   },
   "author": "",
   "license": "ISC"
